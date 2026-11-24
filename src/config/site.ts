@@ -7,11 +7,11 @@
  */
 
 export const siteConfig = {
-  name: "Lumora Digital", // REPLACE: agency name
-  legalName: "Lumora Digital Pvt. Ltd.", // REPLACE
+  name: "Nexora",
+  legalName: "Nexora", // REPLACE: registered company name
   tagline: "We grow brands that people remember.", // REPLACE
   description:
-    "Lumora Digital is a full-service digital marketing agency for startups, D2C brands and SaaS companies — content, social media, UI/UX design and web development built to drive revenue.",
+    "Nexora is a full-service digital marketing agency for startups, D2C brands and SaaS companies — content, social media, UI/UX design and web development built to drive revenue.",
   url: (process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").replace(/\/$/, ""),
   locale: "en_IN",
 
@@ -23,10 +23,10 @@ export const siteConfig = {
   targetClients: "startups, D2C brands, SMBs and SaaS companies",
 
   contact: {
-    email: "hello@youragency.com", // REPLACE
-    phone: "+91 00000 00000", // REPLACE: display format
-    phoneHref: "+910000000000", // REPLACE: tel: format
-    whatsapp: "910000000000", // REPLACE: country code + number, digits only
+    email: "marketing.teamof2@gmail.com",
+    phone: "+91 70367 94914",
+    phoneHref: "+917036794914",
+    whatsapp: "917036794914",
     whatsappMessage: "Hi! I'd like to discuss a project with your team.",
     address: {
       street: "Your Street Address, Floor", // REPLACE

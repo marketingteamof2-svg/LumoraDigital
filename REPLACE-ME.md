@@ -3,7 +3,7 @@
 Everything below is placeholder or sample content. Most of it is in a few files.
 
 ## 1. Agency details: `src/config/site.ts`
-- [ ] Agency name, legal name and tagline (currently the sample name **"Lumora Digital"**)
+- [ ] Agency name, legal name and tagline (currently the sample name **"Nexora"**)
 - [ ] City and region (currently **Bengaluru**). These feed the "[city] digital marketing agency" title, schema and copy.
 - [ ] Email, phone (display and `tel:` formats), WhatsApp number, office address and hours
 - [ ] Social profile URLs and X/Twitter handle
