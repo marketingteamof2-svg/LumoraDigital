@@ -41,7 +41,7 @@ export default async function CaseStudyPage({ params }: Props) {
           { name: "Case studies", path: "/case-studies" },
           { name: study.client.replace(/[[\]]/g, ""), path: `/case-studies/${study.slug}` },
         ]}
-        eyebrow={study.industry}
+        eyebrow={`${study.industry} · ${study.location}`}
         title={study.title}
         description={study.summary}
       >

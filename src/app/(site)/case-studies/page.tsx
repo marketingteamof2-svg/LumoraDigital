@@ -23,7 +23,7 @@ export default function CaseStudiesPage() {
       <section className="section">
         <div className="container">
           <h2 className="sr-only">All case studies</h2>
-          <CaseStudyGrid studies={caseStudies} />
+          <CaseStudyGrid studies={caseStudies} showFeedback />
         </div>
       </section>
       <CtaBand title="Want results like these?" />
